@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "netresearch/jsonmapper": "^1.4"
+    }
+}

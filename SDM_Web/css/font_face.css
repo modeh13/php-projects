@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-nov-2016, 11:34:31
+    Author     : German Alexander Ramirez Vela
+*/
+/* SOURCESANSPRO */
+@font-face {
+    font-family: sourcesanspro_black;
+    src: url('../fonts/SourceSansPro/SourceSansPro-Black.otf');
+}
+@font-face {
+    font-family: sourcesanspro_black_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-BlackIt.otf');
+}
+@font-face {
+    font-family: sourcesanspro_bold;
+    src: url('../fonts/SourceSansPro/SourceSansPro-Bold.otf');
+}
+@font-face {
+    font-family: sourcesanspro_bold_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-BoldIt.otf');
+}
+@font-face {
+    font-family: sourcesanspro_extralight;
+    src: url('../fonts/SourceSansPro/SourceSansPro-ExtraLight.otf');
+}
+@font-face {
+    font-family: sourcesanspro_extralight_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-ExtraLightIt.otf');
+}
+@font-face {
+    font-family: sourcesanspro_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-It.otf');
+}
+@font-face {
+    font-family: sourcesanspro_light;
+    src: url('../fonts/SourceSansPro/SourceSansPro-Light.otf');
+}
+@font-face {
+    font-family: sourcesanspro_light_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-LightIt.otf');
+}
+@font-face {
+    font-family: sourcesanspro_regular;
+    src: url(../fonts/SourceSansPro/SourceSansPro-Regular.otf);
+}
+@font-face {
+    font-family: sourcesanspro_semibold;
+    src: url('../fonts/SourceSansPro/SourceSansPro-Semibold.otf');
+}
+@font-face {
+    font-family: sourcesanspro_semibold_italic;
+    src: url('../fonts/SourceSansPro/SourceSansPro-SemiboldIt.otf');
+}

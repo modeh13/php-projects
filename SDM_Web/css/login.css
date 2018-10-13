@@ -1,0 +1,146 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-nov-2016, 11:12:01
+    Author     : German Alexander Ramirez Vela
+*/
+/*body{    
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}*/
+#dvContCtrlLogin{
+    position: relative;
+    height: 90px;
+}
+#dvContLogin{
+    width: 420px;
+    height: 150px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-sizing: border-box;
+    padding: 10px 5px;    
+}
+#dvContInpLogin{
+    width: 330px;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 0px 10px 0px 3px;
+}
+.dvFilaInpLogin{
+    position: relative;
+    height: 40px;
+    box-sizing: border-box;
+    margin-bottom: 5px;    
+}
+.dvLblLogin{
+    font-family: sourcesanspro_regular;
+    height: 100%;
+    position: absolute;
+    width: 35%;
+    line-height: 40px;
+    font-size: 14px;
+    text-align: right;
+    padding: 0px 15px 0px 0px;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.dvInpLogin{
+    position: absolute;
+    left: 35%;
+    width: 65%;
+    height: 100%;
+}
+.inpLogin{
+    height: 100%;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #cacaca;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-family: sourcesanspro_light;
+    width: 100%;
+}
+#dvImgLogin{
+    background-image: url(../img/folder_login.png);
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#dvContBtnLogin{
+    position: absolute;
+    left: 330px;
+    right: 0px;
+    height: 100%;    
+}
+#dvLblMensaje{
+    box-sizing: border-box;
+    padding: 10px 5px;
+    font-size: 12px;
+    font-family: sourcesanspro_light;
+    color: #ff0000;    
+    text-align: center;
+}
+#dvBtnIngresar{
+    background-image: url(../img/door_login.png);
+    width: 60px;
+    height: 60px;
+    background-color: rgba(17,128,208,0.9);
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    background-position: 50% 50%;
+    border: 1px solid #dadada;
+    cursor: pointer;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+#dvBtnIngresar:hover{
+    background-color: rgba(17,128,208,1);
+    border: 1px solid #fff;
+}
+
+#dvOpcLogin{
+    position: absolute;
+    top: 40px;
+    right: 4px;
+    width: 200px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    padding: 15px 10px;
+    background: #fff;
+    z-index: 1;   
+    border: 1px solid #a5a5a5;
+}
+#dvLblLogout{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: sourcesanspro_regular;
+    font-size: 18px;
+    position: relative;
+    top: 100px;
+}
+#dvLblMensajeLogout{
+    line-height: 55px;
+    height: 55px;
+}
+#dvImgLogount{
+    display: inline-block;
+    width: 55px;
+    background-image: url(../img/logout.svg);
+    height: 55px;
+    background-repeat: no-repeat;
+}
